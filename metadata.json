@@ -1,0 +1,6 @@
+{
+  "name": "Veritas AI - Precision Programming & Reasoning Assistant",
+  "description": "Fast, high-accuracy AI assistant engineered for programming, logical reasoning, and clear explanation with strict data privacy controls, error reduction, and instant answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
